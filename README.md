@@ -1,6 +1,13 @@
+# NetNinja GraphQL Client
+
+This project was created for educational purposes only, by following along with The Net Ninja's introduction to GraphQL.
+
+At the time of this project, much of his guidance was out of date. I have completed the guide using Functional Components utilizing Apollo's hooks rather than Class Components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
